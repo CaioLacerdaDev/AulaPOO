@@ -6,4 +6,4 @@ const carroObjeto ={
 
 carroObjeto.ano = 1998;
 
-console.log (carroObjeto); 
+console.log (carroObjeto);                                                      
